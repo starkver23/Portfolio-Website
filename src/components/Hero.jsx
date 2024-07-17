@@ -1,6 +1,7 @@
 import { HERO_CONTENT } from "../constants"
 import profilePic from "../assets/aryanVermaProfile.jpeg"
 import { motion } from "framer-motion"
+import { TypeAnimation } from "react-type-animation"
 const Hero = () => {
     return (
         <div className="border-b border-neutral-900 pb-4 lg:mb-35">
